@@ -1,0 +1,12 @@
+{
+  "email": "marisa.burmeister@wsu.edu",
+	"pass": "pass",
+  "first_name": "Marisa",
+  "last_name": "Burmeister",
+  "group": "",
+  "doctor": "lipschitz@medical.com",
+  "age": 20,
+  "height": 64,
+  "weight":  125,
+  "sex": "female" 
+}

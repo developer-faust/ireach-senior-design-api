@@ -1,0 +1,12 @@
+{
+  "email": "barrack.obama@whitehouse.gov",
+	"pass": "pass",
+	"first_name": "Barrack",
+  "last_name": "Obama",
+  "group": ["type ii diabetes"],
+  "doctor": "house@md.com",
+  "age": 45,
+  "height": 74,
+  "weight":  185,
+  "sex": "male" 
+}

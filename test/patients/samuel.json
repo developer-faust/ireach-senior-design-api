@@ -1,0 +1,12 @@
+{
+  "email": "samuel.l.jackson@hollywood.com",
+	"pass": "pass",
+  "first_name": "Samuel",
+  "last_name": "Jackson",
+  "group": ["type i diabetes"],
+  "doctor": "house@md.com",
+  "age": 20,
+  "height": 69,
+  "weight":  180,
+  "sex": "male" 
+}

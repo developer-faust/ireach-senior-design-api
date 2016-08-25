@@ -1,0 +1,12 @@
+{
+  "email": "michelle.obama@whitehouse.gov",
+	"pass": "pass",
+	"first_name": "Michelle",
+  "last_name": "Obama",
+  "group": ["type ii diabetes"],
+  "doctor": "house@md.com",
+  "age": 44,
+  "height": 67,
+  "weight":  145,
+  "sex": "female" 
+}

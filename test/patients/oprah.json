@@ -1,0 +1,12 @@
+{
+  "email": "oprah@gmail.com",
+	"pass": "pass",
+  "first_name": "Oprah",
+  "last_name": "Winfrey",
+  "group": "cancer",
+  "doctor": "lipschitz@medical.com",
+  "age": 40,
+  "height": 67,
+  "weight": 160,
+  "sex": "female" 
+}

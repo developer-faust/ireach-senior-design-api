@@ -1,0 +1,11 @@
+{
+	"email" : "patient@test.com",
+	"first_name" : "new_patient",
+	"last_name" : "new_test",
+	"group" : "test",
+	"doctor" : "doctor@test.com",
+	"age" :  99 ,
+	"height" :  99 ,
+	"weight" :  99 ,
+	"sex" : "male" 
+}

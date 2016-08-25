@@ -1,0 +1,8 @@
+{
+  "email" : "example@test.com",
+  "first_name" : "example",
+  "last_name" : "test",
+  "specialty" : "specs",
+  "hospital" : "hosp",
+  "pass" : "pass" 
+}

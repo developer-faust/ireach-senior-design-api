@@ -1,0 +1,12 @@
+{
+  "email": "j@m.com",
+	"pass": "pass",
+  "first_name": "Jeremy",
+  "last_name": "Martinez",
+  "group": "",
+  "doctor": "house@md.com",
+  "age": 21,
+  "height": 72,
+  "weight":  195,
+  "sex": "male" 
+}
